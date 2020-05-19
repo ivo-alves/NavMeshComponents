@@ -1,0 +1,9 @@
+{
+  "name": "navmeshcomponents",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "High Level API Components for Runtime NavMesh Building",
+  "testables:": {},
+  "displayName": "NavMeshComponents",
+  "hideInEditor": false
+}
